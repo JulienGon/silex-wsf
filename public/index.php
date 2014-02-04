@@ -26,5 +26,6 @@ $app->get('/', function () use ($app) {
 });
 
 $echo jlezgf; 
+$echo fjf; 
 
 $app->run();
